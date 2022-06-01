@@ -1,0 +1,23 @@
+.bg-customize{
+    color: #fff;
+    background-color: rgba(70, 0, 101) !important; 
+    border-color: rgba(70, 0, 101) !important ;
+}
+
+.outline-customizeee{
+    color: rgba(70, 0, 101) !important;
+    background-color: rgb(255, 255, 255) !important; 
+    border-color: rgba(70, 0, 101) !important ;
+}
+
+.outline-customizeee:hover, .outline-customizeee.acttive{
+    color: rgb(255, 255, 255) !important;
+    background-color: rgba(70, 0, 101) !important; 
+    border-color: rgba(70, 0, 101) !important ;
+}
+
+.cajaReportesGteGral{
+    padding-bottom: 1rem;
+    border-bottom: 0.05rem solid rgba(70, 0, 101) !important;
+}
+
